@@ -12,7 +12,7 @@
 - 💼 Member at Gradient-IIITS
 - 🌱 I’m currently learning MERN
 
-Skills: MERN, C, C++, JAVASCRIPT, DOCKER
+Skills: MERN, C, C++, JAVASCRIPT
 
 
 
