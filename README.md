@@ -68,11 +68,6 @@
   </a>
   &nbsp;&nbsp;
 </p>
-<p align="center">
-  <a href="https://github.com/abhay2002-pro?tab=repositories" target="_blank">
-  <img src="./assets/languages.gif" height="64"/>
-  </a>
-</p>
 <h3>GitHub Stats</h3>
 
 <p align="center" float="left">
