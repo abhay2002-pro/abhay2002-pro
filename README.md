@@ -6,7 +6,7 @@
 </br></br></br>
 ### Here are some ideas to get you started:</br>
 - 🔭 I’m currently more into the **Programming**
-- 🌱 I love **Solving Problem**.
+- 🌱 I love **Solving Problems**.
 - 🤔 I’m currently learning: **Blockchain and Solidity**
 - 💬 Ask me about **Technology, Geopolitics, Psychology, Neuroscience, History, Nature.**
 - ⚡ Fun fact: **The first message sent over the internet was "LOG". "LOGIN" was the original intended message but the entire system crashed. This was done at MIT.**
