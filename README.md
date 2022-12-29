@@ -1,75 +1,40 @@
-<h1 align="center"> Abhay Kumar Ray </h1>
-<p align="center" float="left">
-<img align="left" src="https://komarev.com/ghpvc/?username=abhay2002-pro&label=Profile%20views&color=009127" alt="abhay2002-pro"/>
-<img align="right" src="https://img.shields.io/github/followers/abhay2002-pro?color=009127&label=Followers" alt="abhay2002-pro" /> 
-</p>
+### <h2>नमस्ते (Namaste)🙏🏻, I'm Abhay!
+  </br>
 
-<p align="center" float="left">
-  <a href="https://github.com/abhay2002-pro?tab=repositories">
-  <img src="./assets/background.gif" height="260" width="420"/>
-  </a>
-</p>
-<br>
-<h3>About me</h3>
-  <p> I am a 20 year old programmer. Some of my hobbies include 
-  <li>Volleyball</li>
-  <li>Listening Music</li>
-  <li>Coding</li>
-</p>
+&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+<img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
+</br></br></br>
+### Here are some ideas to get you started:</br>
+- 🔭 I’m currently more into the **Programming**
+- 🌱 I love **Solving Problem**.
+- 🤔 I’m currently learning: **Blockchain and Solidity**
+- 💬 Ask me about **Technology, Geopolitics, Psychology, Neuroscience, History, Nature.**
+- ⚡ Fun fact: **The first message sent over the internet was "LOG". "LOGIN" was the original intended message but the entire system crashed. This was done at MIT.**
 
-<h3>Languages and Tools</h3>
-<p align="center">
-  <a href="https://www.w3.org/html/" target="_blank">
-  <img src="./assets/html.svg" height="30"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.w3.org/Style/CSS/" target="_blank">
-  <img src="./assets/css.svg" height="30"/>
-  &nbsp;&nbsp;
-  </a>
-  <a href="https://www.javascript.com/" target="_blank">
-  <img src="./assets/javascript.svg" height="30"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.cprogramming.com/" target="_blank">
-  <img src="./assets/c.svg" height="30"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://isocpp.org/" target="_blank">
-  <img src="./assets/cpp.svg" height="30"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.python.org/" target="_blank">
-  <img src="./assets/python.svg" height="30"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://reactjs.org/" target="_blank">
-  <img src="./assets/reactjs.svg" height="30"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://nodejs.org/en/" target="_blank">
-  <img src="./assets/nodejs.svg" height="30"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank">
-  <img src="./assets/mongodb.svg" height="30"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://go.dev/" target="_blank">
-  <img src="./assets/go.svg" height="30"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank">
-  <img src="./assets/git.svg" height="30"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/" target="_blank">
-  <img src="./assets/github.svg" height="30"/>
-  </a>
-  &nbsp;&nbsp;
-</p>
-<h3>GitHub Stats</h3>
+# *I am willing to collaborate as a team player building better code.*
 
+### I know more about- </br>
+![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
+![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
+![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
+![Go](https://img.shields.io/badge/-Go-000000?style=for-the-badge&logo=Go)
+![Mongo DB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MongoDB)
+![React JS](https://img.shields.io/badge/-React.JS-000000?style=for-the-badge&logo=React.JS)
+![Node JS](https://img.shields.io/badge/-Node.JS-000000?style=for-the-badge&logo=Node.JS)
+![Redux](https://img.shields.io/badge/-Redux-000000?style=for-the-badge&logo=Redux)
+
+### Some of the technologies I have worked with-</br>
+![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
+![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
+![AWS](http://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=Amazon-aws&logoColor=cyan)
+![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
+</br></br>
+
+### Github Stats-</br>
 <p align="center" float="left">
   <a href="https://github.com/abhay2002-pro?tab=repositories">
   <img src="https://github-readme-stats.vercel.app/api?username=abhay2002-pro&layout=compact&show_icons=true&title_color=00FFA5&bg_color=0D1117&icon_color=00FFA5&text_color=F8F7F9&hide_border=1" height=150/>
@@ -79,10 +44,12 @@
   </a>
 </p>
 
-<h3>Connect with me</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/abhay-ray-204b44187/"><img src="./assets/linkedin.svg" height="30"/></a>&nbsp;&nbsp;
-  <a href="mailto:abhayray2002@gmail.com"><img src="./assets/gmail.svg" height="30"/></a>&nbsp;&nbsp;
+<p align="center">
+  <i>Let's connect and chat! Open to anything under the sun.</i>
 
-</p>
-
+  <p align="center">   
+    <a href="https://www.linkedin.com/in/abhay-ray-204b44187/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
+  <a href="https://www.facebook.com/abhay.ray.10420/" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/1024px-Facebook_Logo_(2019).png" height="30" width="30"></a>
+  <a href="https://www.instagram.com/meenitish" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="30" width="30"></a>
+    <a href="mailto:abhayray2002@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
+  </p>
