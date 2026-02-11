@@ -3,7 +3,6 @@
 
 <p align="center">
   Software Development Engineer at <b>Blinkit (Zomato)</b> <br/>
-  Building scalable systems handling <b>2,500+ tasks/min across 2,000+ stores</b>
 </p>
 
 ---
