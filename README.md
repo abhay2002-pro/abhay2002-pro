@@ -18,19 +18,6 @@
 
 ---
 
-## 🏗️ What I Work On
-
-At Blinkit, I:
-
-- 🚀 Revamped assignment engine from single-queue → multi-queue architecture
-- ⚡ Handle **2,500+ tasks per minute** across 2,000+ dark stores
-- 📊 Designed flow-based worker allocation using operational metrics
-- 📦 Improved GRN completion by 10% & reduced adhoc manpower by 25–30%
-- 🔥 Built scalable HTTP/gRPC services & Kafka consumers
-- 🗄️ Optimized DynamoDB schemas for high-concurrency workloads
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
