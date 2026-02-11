@@ -1,56 +1,102 @@
-### <h2>नमस्ते (Namaste)🙏🏻, I'm Abhay!
-  </br>
+<h1 align="center">Hi 👋, I'm Abhay Kumar Ray</h1>
+<h3 align="center">Backend Engineer | Distributed Systems | Problem Solver</h3>
 
-&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-<img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
-</br></br></br>
-### Here are some ideas to get you started:</br>
-- 🔭 I’m currently more into the **Programming**
-- 🌱 I love **Solving Problems**.
-- 🤔 I’m currently learning: **Backend Development**
-- 💬 Ask me about **Technology, Geopolitics, Psychology, Neuroscience, History, Nature.**
-- ⚡ Fun fact: **The first message sent over the internet was "LOG". "LOGIN" was the original intended message but the entire system crashed. This was done at MIT.**
+<p align="center">
+  Software Development Engineer at <b>Blinkit (Zomato)</b> <br/>
+  Building scalable systems handling <b>2,500+ tasks/min across 2,000+ stores</b>
+</p>
 
-# *I am willing to collaborate as a team player building better code.*
+---
 
-### I know more about- </br>
-![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
+## 👨‍💻 About Me
+
+- 💼 Currently working as **SDE at Blinkit (Zomato)**
+- ⚙️ Building **high-scale backend systems** using Go, Kafka, DynamoDB, gRPC
+- 🧠 Strong interest in **Distributed Systems, System Design & Backend Architecture**
+- 🏆 Knight @ LeetCode (Max Rating: 2031, Top 2.2%)
+- 🌱 Constantly learning: **Concurrency, Scaling Patterns, Infrastructure**
+
+---
+
+## 🏗️ What I Work On
+
+At Blinkit, I:
+
+- 🚀 Revamped assignment engine from single-queue → multi-queue architecture
+- ⚡ Handle **2,500+ tasks per minute** across 2,000+ dark stores
+- 📊 Designed flow-based worker allocation using operational metrics
+- 📦 Improved GRN completion by 10% & reduced adhoc manpower by 25–30%
+- 🔥 Built scalable HTTP/gRPC services & Kafka consumers
+- 🗄️ Optimized DynamoDB schemas for high-concurrency workloads
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![Go](https://img.shields.io/badge/-Go-000000?style=for-the-badge&logo=Go)
 ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
-![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
-![Go](https://img.shields.io/badge/-Go-000000?style=for-the-badge&logo=Go)
-![Mongo DB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MongoDB)
-![React JS](https://img.shields.io/badge/-React.JS-000000?style=for-the-badge&logo=React.JS)
-![Node JS](https://img.shields.io/badge/-Node.JS-000000?style=for-the-badge&logo=Node.JS)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=for-the-badge&logo=Redux)
 
-### Some of the technologies I have worked with-</br>
-![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
-![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
-![AWS](http://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=Amazon-aws&logoColor=cyan)
-![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
-</br></br>
+### ⚙️ Backend & Frameworks
+![Gin](https://img.shields.io/badge/-Gin-000000?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=Node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge)
 
-### Github Stats-</br>
-<p align="center" float="left">
-  <a href="https://github.com/abhay2002-pro?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhay2002-pro&layout=compact&show_icons=true&title_color=00FFA5&bg_color=0D1117&icon_color=00FFA5&text_color=F8F7F9&hide_border=1" height=150/>
+### 🗄️ Databases & Caching
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-000000?style=for-the-badge&logo=Amazon-DynamoDB)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=MySQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MongoDB)
+![Redis](https://img.shields.io/badge/-Redis-000000?style=for-the-badge&logo=Redis)
+
+### 📡 Messaging & Infrastructure
+![Kafka](https://img.shields.io/badge/-Kafka-000000?style=for-the-badge&logo=Apache-Kafka)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000000?style=for-the-badge&logo=RabbitMQ)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=for-the-badge&logo=Kubernetes)
+![AWS](https://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=Amazon-AWS)
+
+### 📊 Monitoring & DevOps
+![Prometheus](https://img.shields.io/badge/-Prometheus-000000?style=for-the-badge&logo=Prometheus)
+![Grafana](https://img.shields.io/badge/-Grafana-000000?style=for-the-badge&logo=Grafana)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=for-the-badge&logo=Jenkins)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=GitHub)
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Knight at LeetCode (Max Rating: 2031, Top 2.2%)
+- 🏆 Winner – Flipr Hackathon XVI
+- 🥈 National Rank 7 – EMIDS Healthcare Hackathon (375+ teams)
+- 🌍 Multiple Global Top 1000 ranks in LeetCode contests
+- 🏅 Global Rank 185 / 9500+ – CodeChef Lunchtime
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhay2002-pro&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay2002-pro&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 🤝 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhay-ray-204b44187/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/abhay2002-pro?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay2002-pro&show_icons=true&locale=en&layout=compact&title_color=00FFA5&bg_color=0D1117&icon_color=00FFA5&text_color=F8F7F9&hide_border=1" height=150/>
+  <a href="mailto:abhayray2002@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
 </p>
 
-<p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
+---
 
-  <p align="center">   
-    <a href="https://www.linkedin.com/in/abhay-ray-204b44187/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
-  <a href="https://www.facebook.com/abhay.ray.10420/" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/1024px-Facebook_Logo_(2019).png" height="30" width="30"></a>
-  <a href="https://www.instagram.com/_iarray_/" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="30" width="30"></a>
-    <a href="mailto:abhayray2002@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
-  </p>
+<p align="center">
+  <i>I enjoy solving hard engineering problems, building scalable systems, and shipping production-grade software.</i>
+</p>
